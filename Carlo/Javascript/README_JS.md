@@ -1,5 +1,14 @@
 August 8, 2021
 
+  Topics: 
+
+    Variable Types
+      - Character
+      - Integers
+      - Booleans
+
+    Intro to Arrays
+
 Homework
 
 * Create a website that accomplishes the following:
@@ -16,5 +25,11 @@ Homework
 
   * **HINT:** You will need to research how to use `.toLowerCase()`.
 
+August 15, 2021
 
-  
+  Topics: 
+
+    More Arrays
+    Loops
+
+  Homework: 

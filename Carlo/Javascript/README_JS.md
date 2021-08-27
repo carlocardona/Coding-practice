@@ -1,29 +1,20 @@
-August 8, 2021
+August 22, 2021
 
-  Topics: 
+  - Math.random()
+  - More examples of Arrays, Conditionals.
+  - Intro to Functions
 
-    Variable Types
-      - Character
-      - Integers
-      - Booleans
+  - Homework
+  
+    Rock Paper Scissors
 
-    Intro to Arrays
+    * Have users play the game 10 times, then show them their total scores.
 
-Homework
+    **Rules for rock-paper-scissors**
 
-* Create a website that accomplishes the following:
-
-  * Create an array of your favorite bands.
-
-  * With a prompt, ask the user's favorite band.
-
-  * If it's one of your favorites, alert: "YEAH I LOVE THEM!"
-
-  * If it's not, alert: "Nah. They're pretty lame."
-
-  * **HINT:**  You will need to research how to use `.indexOf()`.
-
-  * **HINT:** You will need to research how to use `.toLowerCase()`.
+    * Rock: wins against scissors, loses to paper, and ties against itself.
+    * Paper: wins against rock, loses to scissors, and ties against itself.
+    * Scissors: wins against paper, loses to rock, and ties against itself.
 
 August 15, 2021
 
@@ -55,6 +46,35 @@ for the entire length of the variable
 
   if first letter is a "c" or an "o"
     do this if statement and alert user
+
+August 8, 2021
+
+  Topics: 
+
+    Variable Types
+      - Character
+      - Integers
+      - Booleans
+
+    Intro to Arrays
+
+Homework
+
+* Create a website that accomplishes the following:
+
+  * Create an array of your favorite bands.
+
+  * With a prompt, ask the user's favorite band.
+
+  * If it's one of your favorites, alert: "YEAH I LOVE THEM!"
+
+  * If it's not, alert: "Nah. They're pretty lame."
+
+  * **HINT:**  You will need to research how to use `.indexOf()`.
+
+  * **HINT:** You will need to research how to use `.toLowerCase()`.
+
+
 
 
 

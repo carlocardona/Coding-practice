@@ -1,0 +1,1 @@
+let myMain=document.querySelectorAll("main");

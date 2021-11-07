@@ -1,18 +1,36 @@
-h4 {
-    text-align: center;
-    font-size: 34px;
-    font-weight: 700;
-  }
-  
-  .container {
-    text-align: center;
-  }
-  
-  button {
-    padding: 10px;
-    margin: 24px;
-    cursor: pointer;
-    font-size: 24px;
-    background-color: #247BA0;
-    color: white;
-  }
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #aaa;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 100px;
+}
+h2 {
+  margin: 0 50px;
+  font-size: 50px;
+}
+button {
+  width: 70px;
+  height: 50px;
+  outline: none;
+  border-style: none;
+  font-size: 50px;
+  background-color: pink;
+}
+button:hover {
+  background-color: purple;
+  color: whitesmoke;
+  border-color: black;
+}

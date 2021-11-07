@@ -1,24 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Click Counter</title>
-  <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
 </head>
-
 <body>
-  <div>
-    <h4>Current count: <span id="count"></span></h4>
     <div class="container">
-      <button id="decrement">Decrement</button>
-      <button id="increment">Increment</button>
+        <h1>Increment and Decrement</h1>
+        <div class="card">
+            <button onclick="decrement()">-</button>
+            <h2 id="root"></h2>
+            <button onclick="increment()">+</button>
+        </div>
     </div>
-
-  </div>
-  <script src="./script.js"></script>
+    <script src="./script.js" ></script>
 </body>
-
 </html>

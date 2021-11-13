@@ -10,7 +10,7 @@
 //}
 
 var x = 0;
-var span = document.querySelector("#count"); // find the <span> element in the DOM
+       var span = document.querySelector("#count"); // find the <span> element in the DOM
 var increment = document.getElementById("increment"); // find the element with the ID 'increment'
 var decrement = document.getElementById("decrement"); // find the element with the ID 'decrement'
 
